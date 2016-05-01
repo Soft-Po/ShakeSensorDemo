@@ -28,6 +28,7 @@ public class MainActivity extends AppCompatActivity implements SensorEventListen
     //声明震动类
     private Vibrator vibrator;
     private int soundID;
+    //fenzhi
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
